@@ -23,7 +23,7 @@ This project demonstrates **end-to-end database design and data analysis using r
 
 ```text
 Hospital management project table.sql    → Tables + data  
-queries.sql  → Analysis queries  
+Hospital management project.sq    → Analysis queries  
 README.md  
 ```
 
@@ -48,8 +48,9 @@ README.md
 
 🚀 How to Run
 
-1. Run `schema.sql`
-2. Run `queries.sql`
+1. Run `Hospital management project table.sql `
+2. Run `Hospital management project.sql
+`
 
 
 📌 Conclusion
