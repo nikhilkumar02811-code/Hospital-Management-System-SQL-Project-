@@ -16,7 +16,7 @@ It demonstrates hands-on experience in **database design, data insertion, and ad
 
 ```text
 Hospital-Management-SQL-Project/
-│── schema.sql      # Table creation + data insertion  
+│── Hospital management project table.sql      # Table creation + data insertion  
 │── queries.sql     # Analysis queries  
 │── README.md  
 ```
