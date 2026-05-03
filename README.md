@@ -22,7 +22,7 @@ This project demonstrates **end-to-end database design and data analysis using r
 🗂️ Project Structure
 
 ```text
-schema.sql   → Tables + data  
+Hospital management project table.sql    → Tables + data  
 queries.sql  → Analysis queries  
 README.md  
 ```
